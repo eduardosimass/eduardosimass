@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-  Habilidades: <strong>HTML, CSS, JavaScript,Bootstrap e ReactJS</strong>
+  Habilidades: <strong>HTML, CSS, JavaScript,ReactJS e React-Native</strong>
 </p>
 
 <p align="left">
