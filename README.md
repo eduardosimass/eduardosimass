@@ -1,19 +1,15 @@
 <p align="left"> 
   Meu nome é Eduardo e sou Desenvolvedor Front End.
-  Estou disponível para freelas, caso precise contratar meu serviço entre em contato.
 </p>
 
 <p align="left">
-  Habilidades: <strong>HTML, CSS, JavaScript,ReactJS e React-Native</strong>
+  Habilidades: <strong>HTML, CSS, JavaScript,ReactJS</strong>
 </p>
 
 <p align="left">
   💼 Ferramentas: <strong>VsCode, Vercel, Figma, Git e GitHub</strong>
 </p>
 
-<p align="left">
-  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
-</p>
 
   <p align="left">
   <a href="https://www.instagram.com/eduardosimass/" alt="Instagram">
