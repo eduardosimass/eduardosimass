@@ -1,5 +1,5 @@
 <p align="left"> 
-  Meu nome é Eduardo e sou Desenvolvedor Front End.
+  Meu nome é Eduardo.
 </p>
 
 <p align="left">
