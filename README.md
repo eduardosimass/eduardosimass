@@ -10,6 +10,6 @@
 </p>
 
 <p align="left">
-  Ferramentas: <strong>VsCode, Vercel, Figma, Git e GitHub, Eclipse</strong>
+  Ferramentas: <strong>VsCode, Vercel, Figma, Git e GitHub, Intellij</strong>
 </p>
 
