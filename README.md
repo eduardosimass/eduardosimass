@@ -3,10 +3,7 @@
 </p>
 
 <p align="left">
-  Habilidades: <strong>HTML, CSS, JavaScript,ReactJS</strong>
-</p>
-<p align="left">
-  Em Evolução: <strong>Java e SpringBoot</strong>
+  Habilidades: <strong>Java, SpringBoot, HTML, CSS, JavaScript,ReactJS</strong>
 </p>
 
 <p align="left">
