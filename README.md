@@ -9,7 +9,3 @@
 <p align="left">
   Ferramentas: <strong>VsCode, Vercel, Figma, Git e GitHub, Intellij</strong> 
 </p>
-
-
-![snake gif](https://github.com/eduardosimass/eduardosimass/blob/output/github-contribution-grid-snake.svg)
-
