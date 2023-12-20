@@ -9,3 +9,5 @@
 <p align="left">
   Ferramentas: <strong>VsCode, Vercel, Figma, Git e GitHub, Intellij</strong> 
 </p>
+
+![Visitor Count](https://profile-counter.glitch.me/{eduardosimass}/count.svg)
