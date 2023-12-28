@@ -1,5 +1,5 @@
 <p align="left"> 
-  Meu nome é Eduardo Simas
+  Meu nome é Eduardo, atualmente atuando como Desenvolvedor Junior Java/Web. 
 </p>
 
 <p align="left">
@@ -10,4 +10,3 @@
   Ferramentas: <strong>VsCode, Vercel, Figma, Git e GitHub, Intellij</strong> 
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{eduardosimass}/count.svg)
