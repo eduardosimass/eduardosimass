@@ -1,12 +1,16 @@
-<p align="left"> 
-  Meu nome é Eduardo, atualmente atuando como Desenvolvedor Junior Java/Web. 
-</p>
+👨‍💻 Eduardo Simas
 
-<p align="left">
-  Habilidades: <strong>Java, SpringBoot, HTML, CSS, JavaScript,ReactJS</strong>
-</p>
+Desenvolvedor Java focado em backend, APIs REST e sistemas ERP.
+Experiência com Java, Spring Boot, PostgreSQL e testes automatizados.
 
-<p align="left">
-  Ferramentas: <strong>VsCode, Vercel, Figma, Git e GitHub, Intellij</strong> 
-</p>
+📍 Florianópolis - SC
+📧 eduardo.simmas@gmail.com
 
+🔗 LinkedIn: https://www.linkedin.com/in/eduardo-simas-1352a2265/
+🚀 Stack Principal
+
+Java 12+  Spring Boot
+JPA / Hibernate
+PostgreSQL
+JUnit 5
+APIs REST
