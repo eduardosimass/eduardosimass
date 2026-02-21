@@ -1,55 +1,71 @@
-<h1 align="center">👨‍💻 Eduardo Simas</h1>
+<h1 align="center">Eduardo Simas</h1>
+<h3 align="center">Java Backend Engineer</h3>
 
 <p align="center">
-  Desenvolvedor Java • Backend • APIs REST • ERP Systems
+  Building robust APIs • Business-driven systems • ERP Specialist
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Sou Desenvolvedor Java com experiência em sistemas ERP para hotelaria e gastronomia.  
-Atuo com desenvolvimento backend utilizando Java e Spring Boot, construção de APIs REST, modelagem de banco de dados e testes automatizados.
+Backend Engineer specialized in Java and enterprise systems.
 
-Tenho vivência real de negócio, vindo de Suporte → QA → Desenvolvimento, o que me proporciona visão completa do ciclo de vida do software.
+Experience developing and maintaining ERP solutions for hospitality and restaurant sectors, working with complex business rules, database modeling and RESTful APIs.
 
-📍 Florianópolis - SC  
+Background progression: Support → QA → Backend Development  
+Strong understanding of real production environments and software lifecycle (SDLC).
+
+📍 Florianópolis - Brazil  
 📧 eduardo.simmas@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-simas-1352a2265/)
+🔗 LinkedIn: https://www.linkedin.com/in/eduardo-simas-1352a2265/
 
 ---
 
-## 🛠 Stack Principal
+## 🛠 Tech Stack
 
 ### Backend
-- ☕ Java 12+
-- 🌱 Spring Boot
-- 🗄 JPA / Hibernate
-- 🔐 APIs REST
-- 🧪 JUnit 5
+- Java 12+
+- Spring Boot
+- JPA / Hibernate
+- RESTful APIs
+- JUnit 5
+- Exception Handling
+- DTO Pattern
 
-### Banco de Dados
-- 🐘 PostgreSQL
-- 🧠 HQL / Native Queries
+### Database
+- PostgreSQL
+- HQL
+- Native Queries
+- PL/pgSQL
 
-### Frontend
-- ⚛ ReactJS 
-- 🖥 JSP
-- ⚡ jQuery
+### Testing & Quality
+- Unit Testing
+- Robot Framework (Selenium)
+- Code Refactoring
+- Clean Code Principles
 
-### Ferramentas
-- 🧰 Git & GitLab
-- 📊 JasperReports
-- 🤖 Robot Framework
+### Tools
+- Git / GitLab
+- JasperReports
+- MVC Architecture
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Engineering Focus
 
-🔹 Em construção...
+- Scalable backend architecture
+- Business rule implementation
+- Legacy system modernization
+- Database performance optimization
+- Automated testing
 
 ---
 
-## 📈 Objetivo
+## 🎯 Current Goals
 
-Evoluir continuamente como desenvolvedor backend, aprofundando conhecimentos em arquitetura, boas práticas e sistemas escaláveis.
+Deepening knowledge in:
+- Software Architecture
+- Design Patterns
+- Scalable Systems
+- Cloud-native applications
