@@ -16,9 +16,7 @@ Experience developing and maintaining ERP solutions for hospitality and restaura
 Background progression: Support → QA → Backend Development  
 Strong understanding of real production environments and software lifecycle (SDLC).
 
-📍 Florianópolis - Brazil  
-📧 eduardo.simmas@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/eduardo-simas-1352a2265/
+
 
 ---
 
